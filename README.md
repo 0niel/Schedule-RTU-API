@@ -1,5 +1,7 @@
 # Schedule-RTU
 
+**Внимание! Используйте поддерживаемую версию: https://github.com/Ninja-Official/rtu-mirea-schedule-api**
+
 Forked from https://github.com/RTUITLab/Schedule-RTU-API
 
 Service for getting jsons with a schedule for a given group of RTU MIREA
